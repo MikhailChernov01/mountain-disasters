@@ -1,0 +1,150 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: black;
+}
+
+#welcome-screen {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  padding-top: 15%;
+  position: absolute;
+  z-index: 2;
+  background: linear-gradient(to bottom, #000, rgba(0, 0, 0, 0));
+  font-family: 'Roboto', sans-serif;
+}
+
+#header {
+  color: white;
+  font-size: 3rem;
+  font-weight: 600;
+}
+
+#header2 {
+  color: white;
+  font-size: 2rem;
+  font-weight: 500;
+}
+
+#mount-pic {
+  padding-top: 30px;
+
+  width: 100vw;
+  height: 100vh;
+  opacity: 30%;
+}
+
+#welcome-btn {
+  width: 350px;
+  height: 80px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 2em;
+  background-color: crimson;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 30px;
+}
+
+#map {
+  height: 100%;
+  position: fixed;
+}
+
+
+.icon_container {
+  margin-left: 3%;
+  padding-right: 10%;
+  width: 55px;
+  height: 30px;
+}
+
+.icons {
+
+  position: relative;
+  width: 30px;
+  height: 30px;
+  top: 7px;
+}
+
+
+#topBar {
+  display: inline-block;
+  font-family: 'Roboto', sans-serif;
+  background-color: white;
+  box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.1);
+  position: absolute;
+  left: 15px;
+  top: 100px;
+  z-index: 1;
+  height: 128px;
+  width: 270px;
+  border-radius: 5px;
+  padding-left: 20px;
+
+}
+
+#newForm {
+  padding: 45px;
+  margin-top: 5%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  min-width: 350px;
+  max-width: 500px;
+  background-color: lightgray;
+  border: white 2px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  border-radius: 5px;
+}
+
+#inputForm {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.newInput {
+  min-width: 350px;
+  max-width: 450px;
+  height: 60px;
+  border-radius: 7px;
+  border:grey 2px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1em;
+  margin: 10px;
+  padding: 5px;
+  padding-left: 1em;
+}
+
+.edit-link{
+  text-decoration: none;
+  color: crimson;
+}
+
+
+#btn-sub{
+  
+  min-width: 350px;
+  max-width: 450px;
+  padding: 20px 60px;
+  border-radius: 5px;
+  background-color: crimson;
+  text-decoration: none;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.5em;
+  color: white;
+  margin: 10px;
+}
