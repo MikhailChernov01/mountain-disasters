@@ -1,7 +1,7 @@
 # Mountain-disasters
 Web app that displays mountains air crashes and disasters on map.
 
-![](img/Screenshot from 2020-08-24 12-39-56.png)
+![](img/Screenshot%20from%202020-08-24%2012-39-56.png)
 
 # Stack
 Express JS
