@@ -1,6 +1,10 @@
 # Mountain-disasters
 Web app that displays mountains air crashes and disasters on map.
 
+# Stack
+Express JS
+
+
 # Quick start
 On command line, type in the following commands:
 
