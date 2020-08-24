@@ -1,7 +1,11 @@
 # Mountain-disasters
 Web app that displays mountains air crashes and disasters on map.
 
-![](img/img2.png)
+![](img/img.png)
+
+![](img/img3.png)
+
+
 
 # Stack
 Express JS
@@ -12,6 +16,8 @@ On command line, type in the following commands:
 
         npm install        
         npm start        
+ 
+ ![](img/img4.png)
  
 # Development
 1. Install Node 12 or later. You can use the [package manager][] of your choice.   
