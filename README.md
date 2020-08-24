@@ -3,12 +3,9 @@ Web app that displays mountains air crashes and disasters on map.
 
 ![](img/img.png)
 
-![](img/img3.png)
-
-
-
 # Stack
-Express JS
+Node JS
+Express
 
 
 # Quick start
@@ -17,9 +14,7 @@ On command line, type in the following commands:
         npm install        
         npm start        
  
- ![](img/img4.png)
- 
-# Development
+  # Development
 1. Install Node 12 or later. You can use the [package manager][] of your choice.   
 2. Clone this repository.
 3. Run `npm i` to install the dependencies.
@@ -29,5 +24,9 @@ On command line, type in the following commands:
 When server source files change, the badge server should automatically restart
 itself (using [nodemon][]).
 
+![](img/img4.png)
+
 ## History
 The Mountain-disasters app was made as a training project in July 2020
+
+![](img/img3.png)
