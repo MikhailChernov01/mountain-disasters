@@ -18,4 +18,4 @@ When server source files change, the badge server should automatically restart
 itself (using [nodemon][]).
 
 ## History
-Еhe Mountain-disasters app was made as a training project in July 2020
+The Mountain-disasters app was made as a training project in July 2020
