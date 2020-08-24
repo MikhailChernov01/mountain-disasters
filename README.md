@@ -4,9 +4,8 @@ Web app that displays mountains air crashes and disasters on map.
 ![](img/img.png)
 
 # Stack
-Node JS
-Express
-
+1. Node JS
+2. Express
 
 # Quick start
 On command line, type in the following commands:
